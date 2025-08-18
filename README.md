@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Ra</h1>
-<h3 align="center">A systems administrator with a passion for electronics</h3>
+<h3 align="center">A sysAdmin with a passion for electronics</h3>
 
 - 🌱 I’m currently learning **Electronics, hardware reverse engineering, Arduino, kubernetes**
 

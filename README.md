@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Electronics, hardware reverse engineering, Arduino, kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://jrodriiguezg.github.io/My_Portfolio/](https://jrodriiguezg.github.io/My_Portfolio/)
-
-- 📝 I regularly write my proyects on [https://github.com/jrodriiguezg/proyects/wiki](https://github.com/jrodriiguezg/proyects/wiki)
+- 👨‍💻 All of my projects are available at [https://github.com/jrodriiguezg/proyects/wiki](https://github.com/jrodriiguezg/proyects/wiki)
 
 - 📫 How to reach me **juanraul.rodriguezgil03@gmail.com**
 

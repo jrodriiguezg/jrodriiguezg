@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Ra</h1>
 <h3 align="center">A sysAdmin with a passion for electronics</h3>
 
-- 🌱 I’m currently learning **Electronics, hardware reverse engineering, Arduino, kubernetes**
 
+- 🌱 I’m currently learning **Electronics, hardware reverse engineering, Arduino, kubernetes**
+  
+- I am studying for a **higher degree in systems administration (ASIR)**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/jrodriiguezg/proyects/wiki](https://github.com/jrodriiguezg/proyects/wiki)
 
 - 📫 How to reach me **juanraul.rodriguezgil03@gmail.com**

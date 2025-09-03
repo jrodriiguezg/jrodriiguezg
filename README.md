@@ -8,7 +8,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/jrodriiguezg/proyects/wiki](https://github.com/jrodriiguezg/proyects/wiki)
 
-- 📫 How to reach me **jrodriiguezmaker@gmail.com**
+- 📫 How to reach me **jrodriiguezmaker@gmail.com** | **https://www.linkedin.com/in/juanraulrodriguezgil/**
 
 
 <h3 align="left">Languages and Tools:</h3>

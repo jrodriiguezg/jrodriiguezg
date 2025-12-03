@@ -6,7 +6,7 @@
   
 - I am studying for a **higher degree in systems administration (ASIR)**
   
-- 👨‍💻 All of my projects are available at [https://github.com/jrodriiguezg/proyects/wiki](https://github.com/jrodriiguezg/proyects/wiki)
+- 👨‍💻 All of my projects are available at [https://jrodriiguezg.github.io/My_Portfolio/#projects](https://jrodriiguezg.github.io/My_Portfolio/#projects)
 
 - 📫 How to reach me **jrodriiguezmaker@gmail.com** | **https://www.linkedin.com/in/juanraulrodriguezgil/**
 

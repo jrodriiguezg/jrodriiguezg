@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Ra</h1>
 <h3 align="center">A sysAdmin with a passion for electronics and create cool things</h3>
 
-- My class notes: https://apuntesasir.readthedocs.io/es/latest/index.html (Spanish)
 - 🌱 I’m currently learning **Electronics, hardware reverse engineering, Arduino, kubernetes, 3D model (FreeCAD,AutoCAD)**
   
 - I am studying for a **higher degree in systems administration (ASIR)**
   
-- 👨‍💻 All of my projects are available at [https://jrodriiguezg.github.io/My_Portfolio/#projects](https://jrodriiguezg.github.io/My_Portfolio/#projects)
+- 👨‍💻 All of my projects are available at [jrodriiguezg.link](https://jrodriiguezg.link/)
 
 - 📫 How to reach me **jrodriiguezmaker@gmail.com** | **https://www.linkedin.com/in/juanraulrodriguezgil/**
 

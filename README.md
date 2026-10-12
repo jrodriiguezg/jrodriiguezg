@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Electronics, hardware reverse engineering, Arduino, kubernetes, 3D model (FreeCAD,AutoCAD)**
   
-- I am studying for a **higher degree in systems administration (ASIR)**
-  
 - 👨‍💻 All of my projects are available at [jrodriiguezg.link](https://jrodriiguezg.link/)
 
 - 📫 How to reach me **jrodriiguezmaker@gmail.com** | **https://www.linkedin.com/in/juanraulrodriguezgil/**
